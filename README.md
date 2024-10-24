@@ -3,24 +3,24 @@
 OmniGPT is a versatile web application designed to provide users with access to multiple GPT models in one platform. Whether you are generating content, writing code, or conducting research, OmniGPT allows you to compare and select the best responses from different GPT models. With affordable subscription plans, the platform ensures accessibility for individuals and small businesses. OmniGPT enhances productivity, offering users flexibility, diverse perspectives, and insights for any task.
 
 ## Technical Details🚀
-- **Multi-GPT Access**: OmniGPT allows users to send a single prompt and receive responses from multiple GPT models simultaneously. This feature ensures that users get diverse perspectives and insights from various models, empowering them to choose the most suitable response.
+- **Multi-GPT Access**: Users can send one prompt to multiple GPT models, gaining diverse insights to choose the best response.
+  
+- **Response Comparison**: Easily compare model responses to pick the most relevant and effective answer.
 
-- **Response Comparison**: Users can easily compare responses from different GPT models, helping them select the best answer based on performance, relevance, and personal preferences. This feature enhances decision-making and boosts productivity.
+- **Affordable Plans**: Cost-effective subscription options make multi-GPT access affordable for individuals and businesses.
 
-- **Affordable Subscription Plans**: OmniGPT offers cost-effective subscription plans, making it accessible to individuals and small businesses. These flexible plans allow users to unlock access to multiple GPT models at a fraction of the cost, maximizing value.
+- **Exclusive Partnerships**: Collaborations with GPT providers offer a wide range of model responses for comprehensive insights.
 
-- **Exclusive Partnerships**: Through partnerships with diverse GPT model providers, OmniGPT offers users access to an extensive range of models, enabling more comprehensive responses and use case-specific insights.
+- **Developer Tools**: Features and integrations streamline workflows, helping developers boost productivity.
 
-- **Developer-Friendly Features**: The platform provides tools and integrations designed to streamline workflows for developers, including features that enhance productivity through multiple GPT model responses tailored to coding tasks and technical queries.
+- **Support**: Dedicated customer support ensures quick issue resolution and a seamless experience.
 
-- **Comprehensive Support**: OmniGPT offers dedicated customer support to address any issues users may encounter, ensuring a smooth experience and prompt resolutions for both technical and subscription-related queries.
+- **Experimental Stripe Payment**: Stripe integration is in development, allowing users to test payment functionality with custom keys.
 
-- **Experimental Features (Stripe Payment)**: OmniGPT is currently developing a Stripe payment integration. While still experimental, users can test this feature by setting up a Stripe account and replacing the relevant keys in `backend/Stripe/controller/subscriptionController.js` along with `firebaseSDK.json` for a customized experience.
+## Live Demo 🌐
+Click the link below to experience OmniGPT in action:
 
-## Demo Video 📹
-Click the link below to experience OmniGPT
-
-👉 [OmniGPT](https://omnigpt-geeks.netlify.app/)
+👉 [OmniGPT Live](https://omnigpt-geeks.netlify.app/)
 
 ## Screenshots 📸
 Below are some screenshots which will give you the overall look and feel of the website

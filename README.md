@@ -26,16 +26,22 @@ Click the link below to experience OmniGPT in action:
 Below are some screenshots which will give you the overall look and feel of the website
 
 ### Landing page
-![image](https://firebasestorage.googleapis.com/v0/b/webt3-8766f.appspot.com/o/chatterhub%20demo%20images%2FChatterHub%20landing.png?alt=media&token=5cbb0900-be21-4eec-90a7-4e3271173f82)
+![image](https://firebasestorage.googleapis.com/v0/b/webt3-8766f.appspot.com/o/OmniGPT%2FOmniGPT.png?alt=media&token=06f23aa0-bd2f-46ab-8456-751670fe8669)
 
-### Entering your credentials
-![image](https://firebasestorage.googleapis.com/v0/b/webt3-8766f.appspot.com/o/chatterhub%20demo%20images%2FChatterHub%20Login.png?alt=media&token=57141f72-6f13-4df3-91dd-a0caddbf262e)
+### Chat Window - Response from multiple LLMs (Gemini and Llama)
+![image](https://firebasestorage.googleapis.com/v0/b/webt3-8766f.appspot.com/o/OmniGPT%2Fchat.png?alt=media&token=14bb5e39-6186-4576-8ed5-b25d48c1ab08)
 
-### Create room
-![image](https://firebasestorage.googleapis.com/v0/b/webt3-8766f.appspot.com/o/chatterhub%20demo%20images%2FChatterHub%20create%20room.png?alt=media&token=7d675307-81ee-48d8-ac7a-56a5382db61a)
+### Export Chat as PDF (Export/Import chat as JSON & Adding another user to the chat functionality is also available)
+![image](https://firebasestorage.googleapis.com/v0/b/webt3-8766f.appspot.com/o/OmniGPT%2Fexport%20chat.png?alt=media&token=f28b7645-a8a8-47d3-9821-94d4baa1ef2a)
 
-### Join room
-![image](https://firebasestorage.googleapis.com/v0/b/webt3-8766f.appspot.com/o/chatterhub%20demo%20images%2FChatterHub%20join%20room.png?alt=media&token=43844b4e-93b9-42ed-a243-4d8d07fa9048)
+### About Us Page
+![image](https://firebasestorage.googleapis.com/v0/b/webt3-8766f.appspot.com/o/OmniGPT%2Fabout.png?alt=media&token=16bdfa53-2ac7-4d3c-8c4c-1deaa650c28a)
 
-### Chat Page
-![image](https://firebasestorage.googleapis.com/v0/b/webt3-8766f.appspot.com/o/chatterhub%20demo%20images%2Fchatscreen.png?alt=media&token=71f1065b-6f92-48c1-b06a-134522713e7b)
+### Login
+![image](https://firebasestorage.googleapis.com/v0/b/webt3-8766f.appspot.com/o/OmniGPT%2Flogin.png?alt=media&token=63a63b95-5b1e-4dc9-b976-58e747a7b012)
+
+### Pricing
+![image](https://firebasestorage.googleapis.com/v0/b/webt3-8766f.appspot.com/o/OmniGPT%2FPricing.png?alt=media&token=debde3cf-9c56-4fa8-aabc-2b3a3b1db884)
+
+### Checkout (Stripe)
+![image](https://firebasestorage.googleapis.com/v0/b/webt3-8766f.appspot.com/o/OmniGPT%2FCheckout.png?alt=media&token=e9fe74bd-b0ed-404e-aa03-4eab5b8f1d4f)

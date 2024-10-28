@@ -3,7 +3,7 @@
 OmniGPT is a versatile web application designed to provide users with access to multiple GPT models in one platform. Whether you are generating content, writing code, or conducting research, OmniGPT allows you to compare and select the best responses from different GPT models. With affordable subscription plans, the platform ensures accessibility for individuals and small businesses. OmniGPT enhances productivity, offering users flexibility, diverse perspectives, and insights for any task.
 
 ## Technical Details🚀
-- **Multi-GPT Access**: Users can send one prompt to multiple GPT models, gaining diverse insights to choose the best response.
+- **Multi-GPT Access**: Users can send one prompt to multiple GPT models i.e. Llama and Gemini, gaining diverse insights to choose the best response.
   
 - **Response Comparison**: Easily compare model responses to pick the most relevant and effective answer.
 
